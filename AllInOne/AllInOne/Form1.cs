@@ -188,11 +188,18 @@ namespace AllInOne
 
         private void btnOn_Click(object sender, EventArgs e)
         {
-            InitBrowserGithub(); InitBrowserYoutube(); InitBrowserVScode(); InitBrowserStack();
-            InitBrowserDiscord(); InitBrowserGmail(); InitBrowserLinkedin(); InitBrowserGoogle();
-            InitBrowserSpotify(); InitBrowserW3();
-            Book.SetPage("tabPage8");
-            btnOnn.Visible = false;
+            try
+            {
+                InitBrowserGithub(); InitBrowserYoutube(); InitBrowserVScode(); InitBrowserStack();
+                InitBrowserDiscord(); InitBrowserGmail(); InitBrowserLinkedin(); InitBrowserGoogle();
+                InitBrowserSpotify(); InitBrowserW3();
+                Book.SetPage("tabPage8");
+                btnOnn.Visible = false;
+            }
+            catch (Exception ex)
+            {
+
+            }
         }
 
         private void btnExit_Click(object sender, EventArgs e)
