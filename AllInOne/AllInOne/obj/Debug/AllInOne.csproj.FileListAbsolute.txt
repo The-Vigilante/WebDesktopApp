@@ -55,3 +55,5 @@ D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\obj\Debug\AllInOne.a
 D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\obj\Debug\AllInOne.csproj.CopyComplete
 D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\obj\Debug\AllInOne.exe
 D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\obj\Debug\AllInOne.pdb
+D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\bin\Debug\AllInOne.exe.CodeAnalysisLog.xml
+D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\bin\Debug\AllInOne.exe.lastcodeanalysissucceeded
