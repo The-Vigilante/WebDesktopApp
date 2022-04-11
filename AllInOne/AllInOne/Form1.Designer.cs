@@ -43,47 +43,47 @@
             this.btnOnn = new Bunifu.Framework.UI.BunifuThinButton2();
             this.Book = new Bunifu.UI.WinForms.BunifuPages();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.tabPage6 = new System.Windows.Forms.TabPage();
-            this.tabPage7 = new System.Windows.Forms.TabPage();
             this.webViewgithub = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.webViewyoutube = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
             this.webViewvscode = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
             this.webViewstack = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.tabPage5 = new System.Windows.Forms.TabPage();
             this.webViewdiscord = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.tabPage6 = new System.Windows.Forms.TabPage();
             this.webViewgmail = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.tabPage7 = new System.Windows.Forms.TabPage();
             this.webViewlinkedin = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.btnGoogle = new Bunifu.Framework.UI.BunifuThinButton2();
-            this.btnW3 = new Bunifu.Framework.UI.BunifuThinButton2();
             this.tabPage8 = new System.Windows.Forms.TabPage();
-            this.tabPage9 = new System.Windows.Forms.TabPage();
             this.webViewGoogle = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.tabPage9 = new System.Windows.Forms.TabPage();
             this.webViewW3 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.btnSpotify = new Bunifu.Framework.UI.BunifuThinButton2();
             this.tabPage10 = new System.Windows.Forms.TabPage();
             this.webViewSpotify = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.btnGoogle = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.btnW3 = new Bunifu.Framework.UI.BunifuThinButton2();
+            this.btnSpotify = new Bunifu.Framework.UI.BunifuThinButton2();
             this.btnExit = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.Book.SuspendLayout();
             this.tabPage1.SuspendLayout();
-            this.tabPage2.SuspendLayout();
-            this.tabPage3.SuspendLayout();
-            this.tabPage4.SuspendLayout();
-            this.tabPage5.SuspendLayout();
-            this.tabPage6.SuspendLayout();
-            this.tabPage7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewgithub)).BeginInit();
+            this.tabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewyoutube)).BeginInit();
+            this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewvscode)).BeginInit();
+            this.tabPage4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewstack)).BeginInit();
+            this.tabPage5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewdiscord)).BeginInit();
+            this.tabPage6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewgmail)).BeginInit();
+            this.tabPage7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewlinkedin)).BeginInit();
             this.tabPage8.SuspendLayout();
-            this.tabPage9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewGoogle)).BeginInit();
+            this.tabPage9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewW3)).BeginInit();
             this.tabPage10.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webViewSpotify)).BeginInit();
@@ -186,7 +186,7 @@
             this.btnVSCODE.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
             this.btnVSCODE.IdleForecolor = System.Drawing.Color.White;
             this.btnVSCODE.IdleLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
-            this.btnVSCODE.Location = new System.Drawing.Point(21, 433);
+            this.btnVSCODE.Location = new System.Drawing.Point(21, 516);
             this.btnVSCODE.Margin = new System.Windows.Forms.Padding(5);
             this.btnVSCODE.Name = "btnVSCODE";
             this.btnVSCODE.Size = new System.Drawing.Size(193, 76);
@@ -212,7 +212,7 @@
             this.btnSTACK.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(156)))), ((int)(((byte)(18)))));
             this.btnSTACK.IdleForecolor = System.Drawing.Color.White;
             this.btnSTACK.IdleLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(156)))), ((int)(((byte)(18)))));
-            this.btnSTACK.Location = new System.Drawing.Point(21, 519);
+            this.btnSTACK.Location = new System.Drawing.Point(21, 430);
             this.btnSTACK.Margin = new System.Windows.Forms.Padding(5);
             this.btnSTACK.Name = "btnSTACK";
             this.btnSTACK.Size = new System.Drawing.Size(193, 76);
@@ -353,72 +353,6 @@
             this.tabPage1.Text = "tabPage1";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
-            // tabPage2
-            // 
-            this.tabPage2.Controls.Add(this.webViewyoutube);
-            this.tabPage2.Location = new System.Drawing.Point(4, 4);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "tabPage2";
-            this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // tabPage3
-            // 
-            this.tabPage3.Controls.Add(this.webViewvscode);
-            this.tabPage3.Location = new System.Drawing.Point(4, 4);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "tabPage3";
-            this.tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // tabPage4
-            // 
-            this.tabPage4.Controls.Add(this.webViewstack);
-            this.tabPage4.Location = new System.Drawing.Point(4, 4);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "tabPage4";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
-            // tabPage5
-            // 
-            this.tabPage5.Controls.Add(this.webViewdiscord);
-            this.tabPage5.Location = new System.Drawing.Point(4, 4);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "tabPage5";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
-            // tabPage6
-            // 
-            this.tabPage6.Controls.Add(this.webViewgmail);
-            this.tabPage6.Location = new System.Drawing.Point(4, 4);
-            this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage6.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage6.TabIndex = 5;
-            this.tabPage6.Text = "tabPage6";
-            this.tabPage6.UseVisualStyleBackColor = true;
-            // 
-            // tabPage7
-            // 
-            this.tabPage7.Controls.Add(this.webViewlinkedin);
-            this.tabPage7.Location = new System.Drawing.Point(4, 4);
-            this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage7.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage7.TabIndex = 6;
-            this.tabPage7.Text = "tabPage7";
-            this.tabPage7.UseVisualStyleBackColor = true;
-            // 
             // webViewgithub
             // 
             this.webViewgithub.AllowExternalDrop = true;
@@ -429,6 +363,17 @@
             this.webViewgithub.Size = new System.Drawing.Size(1308, 940);
             this.webViewgithub.TabIndex = 0;
             this.webViewgithub.ZoomFactor = 1D;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.webViewyoutube);
+            this.tabPage2.Location = new System.Drawing.Point(4, 4);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "tabPage2";
+            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // webViewyoutube
             // 
@@ -441,6 +386,17 @@
             this.webViewyoutube.TabIndex = 1;
             this.webViewyoutube.ZoomFactor = 1D;
             // 
+            // tabPage3
+            // 
+            this.tabPage3.Controls.Add(this.webViewvscode);
+            this.tabPage3.Location = new System.Drawing.Point(4, 4);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage3.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "tabPage3";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            // 
             // webViewvscode
             // 
             this.webViewvscode.AllowExternalDrop = true;
@@ -451,6 +407,17 @@
             this.webViewvscode.Size = new System.Drawing.Size(1308, 940);
             this.webViewvscode.TabIndex = 2;
             this.webViewvscode.ZoomFactor = 1D;
+            // 
+            // tabPage4
+            // 
+            this.tabPage4.Controls.Add(this.webViewstack);
+            this.tabPage4.Location = new System.Drawing.Point(4, 4);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage4.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage4.TabIndex = 3;
+            this.tabPage4.Text = "tabPage4";
+            this.tabPage4.UseVisualStyleBackColor = true;
             // 
             // webViewstack
             // 
@@ -463,6 +430,17 @@
             this.webViewstack.TabIndex = 2;
             this.webViewstack.ZoomFactor = 1D;
             // 
+            // tabPage5
+            // 
+            this.tabPage5.Controls.Add(this.webViewdiscord);
+            this.tabPage5.Location = new System.Drawing.Point(4, 4);
+            this.tabPage5.Name = "tabPage5";
+            this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage5.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage5.TabIndex = 4;
+            this.tabPage5.Text = "tabPage5";
+            this.tabPage5.UseVisualStyleBackColor = true;
+            // 
             // webViewdiscord
             // 
             this.webViewdiscord.AllowExternalDrop = true;
@@ -473,6 +451,17 @@
             this.webViewdiscord.Size = new System.Drawing.Size(1308, 940);
             this.webViewdiscord.TabIndex = 2;
             this.webViewdiscord.ZoomFactor = 1D;
+            // 
+            // tabPage6
+            // 
+            this.tabPage6.Controls.Add(this.webViewgmail);
+            this.tabPage6.Location = new System.Drawing.Point(4, 4);
+            this.tabPage6.Name = "tabPage6";
+            this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage6.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage6.TabIndex = 5;
+            this.tabPage6.Text = "tabPage6";
+            this.tabPage6.UseVisualStyleBackColor = true;
             // 
             // webViewgmail
             // 
@@ -485,6 +474,17 @@
             this.webViewgmail.TabIndex = 2;
             this.webViewgmail.ZoomFactor = 1D;
             // 
+            // tabPage7
+            // 
+            this.tabPage7.Controls.Add(this.webViewlinkedin);
+            this.tabPage7.Location = new System.Drawing.Point(4, 4);
+            this.tabPage7.Name = "tabPage7";
+            this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage7.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage7.TabIndex = 6;
+            this.tabPage7.Text = "tabPage7";
+            this.tabPage7.UseVisualStyleBackColor = true;
+            // 
             // webViewlinkedin
             // 
             this.webViewlinkedin.AllowExternalDrop = true;
@@ -495,6 +495,72 @@
             this.webViewlinkedin.Size = new System.Drawing.Size(1308, 940);
             this.webViewlinkedin.TabIndex = 2;
             this.webViewlinkedin.ZoomFactor = 1D;
+            // 
+            // tabPage8
+            // 
+            this.tabPage8.Controls.Add(this.webViewGoogle);
+            this.tabPage8.Location = new System.Drawing.Point(4, 4);
+            this.tabPage8.Name = "tabPage8";
+            this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage8.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage8.TabIndex = 7;
+            this.tabPage8.Text = "tabPage8";
+            this.tabPage8.UseVisualStyleBackColor = true;
+            // 
+            // webViewGoogle
+            // 
+            this.webViewGoogle.AllowExternalDrop = true;
+            this.webViewGoogle.CreationProperties = null;
+            this.webViewGoogle.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webViewGoogle.Location = new System.Drawing.Point(0, 0);
+            this.webViewGoogle.Name = "webViewGoogle";
+            this.webViewGoogle.Size = new System.Drawing.Size(1308, 940);
+            this.webViewGoogle.TabIndex = 3;
+            this.webViewGoogle.ZoomFactor = 1D;
+            // 
+            // tabPage9
+            // 
+            this.tabPage9.Controls.Add(this.webViewW3);
+            this.tabPage9.Location = new System.Drawing.Point(4, 4);
+            this.tabPage9.Name = "tabPage9";
+            this.tabPage9.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage9.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage9.TabIndex = 8;
+            this.tabPage9.Text = "tabPage9";
+            this.tabPage9.UseVisualStyleBackColor = true;
+            // 
+            // webViewW3
+            // 
+            this.webViewW3.AllowExternalDrop = true;
+            this.webViewW3.CreationProperties = null;
+            this.webViewW3.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webViewW3.Location = new System.Drawing.Point(0, 0);
+            this.webViewW3.Name = "webViewW3";
+            this.webViewW3.Size = new System.Drawing.Size(1308, 940);
+            this.webViewW3.TabIndex = 3;
+            this.webViewW3.ZoomFactor = 1D;
+            // 
+            // tabPage10
+            // 
+            this.tabPage10.Controls.Add(this.webViewSpotify);
+            this.tabPage10.Location = new System.Drawing.Point(4, 4);
+            this.tabPage10.Name = "tabPage10";
+            this.tabPage10.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage10.Size = new System.Drawing.Size(1308, 940);
+            this.tabPage10.TabIndex = 9;
+            this.tabPage10.Text = "tabPage10";
+            this.tabPage10.UseVisualStyleBackColor = true;
+            // 
+            // webViewSpotify
+            // 
+            this.webViewSpotify.AllowExternalDrop = true;
+            this.webViewSpotify.CreationProperties = null;
+            this.webViewSpotify.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webViewSpotify.Location = new System.Drawing.Point(0, 0);
+            this.webViewSpotify.Name = "webViewSpotify";
+            this.webViewSpotify.Size = new System.Drawing.Size(1308, 940);
+            this.webViewSpotify.TabIndex = 4;
+            this.webViewSpotify.ZoomFactor = 1D;
             // 
             // btnGoogle
             // 
@@ -548,50 +614,6 @@
             this.btnW3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btnW3.Click += new System.EventHandler(this.btnW3_Click);
             // 
-            // tabPage8
-            // 
-            this.tabPage8.Controls.Add(this.webViewGoogle);
-            this.tabPage8.Location = new System.Drawing.Point(4, 4);
-            this.tabPage8.Name = "tabPage8";
-            this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage8.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage8.TabIndex = 7;
-            this.tabPage8.Text = "tabPage8";
-            this.tabPage8.UseVisualStyleBackColor = true;
-            // 
-            // tabPage9
-            // 
-            this.tabPage9.Controls.Add(this.webViewW3);
-            this.tabPage9.Location = new System.Drawing.Point(4, 4);
-            this.tabPage9.Name = "tabPage9";
-            this.tabPage9.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage9.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage9.TabIndex = 8;
-            this.tabPage9.Text = "tabPage9";
-            this.tabPage9.UseVisualStyleBackColor = true;
-            // 
-            // webViewGoogle
-            // 
-            this.webViewGoogle.AllowExternalDrop = true;
-            this.webViewGoogle.CreationProperties = null;
-            this.webViewGoogle.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webViewGoogle.Location = new System.Drawing.Point(0, 0);
-            this.webViewGoogle.Name = "webViewGoogle";
-            this.webViewGoogle.Size = new System.Drawing.Size(1308, 940);
-            this.webViewGoogle.TabIndex = 3;
-            this.webViewGoogle.ZoomFactor = 1D;
-            // 
-            // webViewW3
-            // 
-            this.webViewW3.AllowExternalDrop = true;
-            this.webViewW3.CreationProperties = null;
-            this.webViewW3.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webViewW3.Location = new System.Drawing.Point(0, 0);
-            this.webViewW3.Name = "webViewW3";
-            this.webViewW3.Size = new System.Drawing.Size(1308, 940);
-            this.webViewW3.TabIndex = 3;
-            this.webViewW3.ZoomFactor = 1D;
-            // 
             // btnSpotify
             // 
             this.btnSpotify.ActiveBorderThickness = 1;
@@ -617,28 +639,6 @@
             this.btnSpotify.TabIndex = 64;
             this.btnSpotify.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btnSpotify.Click += new System.EventHandler(this.btnSpotify_Click);
-            // 
-            // tabPage10
-            // 
-            this.tabPage10.Controls.Add(this.webViewSpotify);
-            this.tabPage10.Location = new System.Drawing.Point(4, 4);
-            this.tabPage10.Name = "tabPage10";
-            this.tabPage10.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage10.Size = new System.Drawing.Size(1308, 940);
-            this.tabPage10.TabIndex = 9;
-            this.tabPage10.Text = "tabPage10";
-            this.tabPage10.UseVisualStyleBackColor = true;
-            // 
-            // webViewSpotify
-            // 
-            this.webViewSpotify.AllowExternalDrop = true;
-            this.webViewSpotify.CreationProperties = null;
-            this.webViewSpotify.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webViewSpotify.Location = new System.Drawing.Point(0, 0);
-            this.webViewSpotify.Name = "webViewSpotify";
-            this.webViewSpotify.Size = new System.Drawing.Size(1308, 940);
-            this.webViewSpotify.TabIndex = 4;
-            this.webViewSpotify.ZoomFactor = 1D;
             // 
             // btnExit
             // 
@@ -730,22 +730,22 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Book.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
-            this.tabPage2.ResumeLayout(false);
-            this.tabPage3.ResumeLayout(false);
-            this.tabPage4.ResumeLayout(false);
-            this.tabPage5.ResumeLayout(false);
-            this.tabPage6.ResumeLayout(false);
-            this.tabPage7.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewgithub)).EndInit();
+            this.tabPage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewyoutube)).EndInit();
+            this.tabPage3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewvscode)).EndInit();
+            this.tabPage4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewstack)).EndInit();
+            this.tabPage5.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewdiscord)).EndInit();
+            this.tabPage6.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewgmail)).EndInit();
+            this.tabPage7.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewlinkedin)).EndInit();
             this.tabPage8.ResumeLayout(false);
-            this.tabPage9.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewGoogle)).EndInit();
+            this.tabPage9.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewW3)).EndInit();
             this.tabPage10.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webViewSpotify)).EndInit();
