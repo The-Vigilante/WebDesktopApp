@@ -1,15 +1,6 @@
-2022/04/11-13:14:32.339 49d8 Reusing MANIFEST D:\Apps\Visual Studio\Projects\AllInOne\AllInOne\bin\Debug\AllInOne.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
-2022/04/11-13:14:32.341 49d8 Recovering log #58
-2022/04/11-13:14:32.341 49d8 Reusing old log D:\Apps\Visual Studio\Projects\AllInOne\AllInOne\bin\Debug\AllInOne.exe.WebView2\EBWebView\Default\Session Storage/000058.log 
-2022/04/11-13:14:50.758 5bfc Level-0 table #62: started
-2022/04/11-13:14:50.830 5bfc Level-0 table #62: 25734 bytes OK
-2022/04/11-13:14:50.864 5bfc Delete type=0 #58
-2022/04/11-13:14:50.865 49d8 Compacting 4@0 + 1@1 files
-2022/04/11-13:14:50.907 49d8 Generated table #63@0: 580 keys, 37045 bytes
-2022/04/11-13:14:50.907 49d8 Compacted 4@0 + 1@1 files => 37045 bytes
-2022/04/11-13:14:51.000 49d8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/04/11-13:14:51.001 49d8 Delete type=2 #51
-2022/04/11-13:14:51.001 49d8 Delete type=2 #54
-2022/04/11-13:14:51.001 49d8 Delete type=2 #57
-2022/04/11-13:14:51.001 49d8 Delete type=2 #59
-2022/04/11-13:14:51.001 49d8 Delete type=2 #62
+2022/04/11-15:38:07.206 5044 Reusing MANIFEST D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\bin\Debug\AllInOne.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
+2022/04/11-15:38:07.209 5044 Recovering log #61
+2022/04/11-15:38:07.210 5044 Reusing old log D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\bin\Debug\AllInOne.exe.WebView2\EBWebView\Default\Session Storage/000061.log 
+2022/04/11-15:38:12.868 6e5c Level-0 table #66: started
+2022/04/11-15:38:12.991 6e5c Level-0 table #66: 90333 bytes OK
+2022/04/11-15:38:13.092 6e5c Delete type=0 #61
