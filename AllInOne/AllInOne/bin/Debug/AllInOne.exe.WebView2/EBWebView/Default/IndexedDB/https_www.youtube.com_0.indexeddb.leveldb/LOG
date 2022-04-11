@@ -1,0 +1,6 @@
+2022/04/11-13:43:38.408 4564 Reusing MANIFEST D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\bin\Debug\AllInOne.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/11-13:43:38.409 4564 Recovering log #3
+2022/04/11-13:43:38.460 4564 Reusing old log D:\Apps\Visual Studio\Projects\WebDesktop\AllInOne\AllInOne\bin\Debug\AllInOne.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/04/11-13:44:00.395 4564 Level-0 table #5: started
+2022/04/11-13:44:00.503 4564 Level-0 table #5: 1074532 bytes OK
+2022/04/11-13:44:00.530 4564 Delete type=0 #3
